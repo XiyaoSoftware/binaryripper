@@ -1,6 +1,8 @@
 # binaryripper
 Binary Ripper™ is a commercial decompiler for HarmonyOS Ark Bytecode. This repository releases the free, non-commercial edition and tracks public issues and bug reports. Commercial usage and licensing: sales@binaryripper.com.
 
+[中文](README_zh.md)
+
 ## Key Features
 
 ### Flat Exception Structuring Mode
