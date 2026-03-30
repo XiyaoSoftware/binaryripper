@@ -1,5 +1,5 @@
 # binaryripper
-Binary Ripper™ 是一款支持 HarmonyOS Ark 字节码反编译的商业反编译工具。本仓库用于发布免费、非商业版Binary Ripper，跟踪公开问题和缺陷报告。商业用途与授权请联系：sales@binaryripper.com。
+Binary Ripper™ 是一款支持 HarmonyOS Ark 和 Android Dalvik 字节码反编译的商业反编译工具。本仓库用于发布免费、非商业版Binary Ripper，跟踪公开问题和缺陷报告。商业用途与授权请联系：sales@binaryripper.com。
 
 [English](README.md)
 
@@ -67,8 +67,8 @@ Binary Ripper™ 是一款支持 HarmonyOS Ark 字节码反编译的商业反编
 
 | 功能 | 免费版 |
 |--------|:----:|
-| Ark 字节码反汇编 | ✓ |
-| Ark 字节码反编译 | — |
+| Ark，Dalvik字节码反汇编 | ✓ |
+| Ark，Dalvik字节码反编译 | — |
 | &nbsp;&nbsp;- 反编译单个方法 | ✓ |
 | &nbsp;&nbsp;- 反编译整个类 | — |
 | 跨过程词法变量恢复 | — |
@@ -85,6 +85,7 @@ Binary Ripper™ 是一款支持 HarmonyOS Ark 字节码反编译的商业反编
 | &nbsp;&nbsp;- 区域信息 | — |
 | &nbsp;&nbsp;- 基本块导航图 | — |
 | 反汇编与伪代码视图同步 | — |
+| 解码安卓AndroidManifest.xml和ARSC资源文件 | ✓ |
 
 ## 支持与联系
 

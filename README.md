@@ -1,5 +1,5 @@
 # binaryripper
-Binary Ripper™ is a commercial decompiler for HarmonyOS Ark Bytecode. This repository releases the free, non-commercial edition and tracks public issues and bug reports. Commercial usage and licensing: sales@binaryripper.com.
+Binary Ripper™ is a commercial decompiler for HarmonyOS Ark & Android Dalvik Bytecode. This repository releases the free, non-commercial edition and tracks public issues and bug reports. Commercial usage and licensing: sales@binaryripper.com.
 
 [中文](README_zh.md)
 
@@ -68,8 +68,8 @@ Supports folding selected **loops and regions** into a single node, reducing CFG
 
 | Feature | Free |
 |--------|:----:|
-| Ark Bytecode Disassembly | ✓ |
-| Ark Bytecode Decompilation | — |
+| Ark & Dalvik Bytecode Disassembly | ✓ |
+| Ark & Dalvik Bytecode Decompilation | — |
 | &nbsp;&nbsp;- Decompile Single Method | ✓ |
 | &nbsp;&nbsp;- Decompile Entire Class | — |
 | Interprocedural Lexical Variable Recovery | — |
@@ -86,6 +86,7 @@ Supports folding selected **loops and regions** into a single node, reducing CFG
 | &nbsp;&nbsp;- Region Information | — |
 | &nbsp;&nbsp;- Block Navigation Map | — |
 | Disassembly & Pseudocode View Synchronization | — |
+| Decode AndroidManifest.xml and ARSC resource files | ✓ |
 
 ## Support & Contact
 
