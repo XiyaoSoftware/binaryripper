@@ -68,6 +68,9 @@ Supports folding selected **loops and regions** into a single node, reducing CFG
 
 | Feature | Free |
 |--------|:----:|
+| AI | — |
+| &nbsp;&nbsp;- AI Agent | ✓ |
+| &nbsp;&nbsp;- MCP | — |
 | Ark & Dalvik Bytecode Disassembly | ✓ |
 | Ark & Dalvik Bytecode Decompilation | — |
 | &nbsp;&nbsp;- Decompile Single Method | ✓ |
