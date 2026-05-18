@@ -90,6 +90,7 @@ Supports folding selected **loops and regions** into a single node, reducing CFG
 | &nbsp;&nbsp;- Block Navigation Map | — |
 | Disassembly & Pseudocode View Synchronization | — |
 | Decode AndroidManifest.xml and ARSC resource files | ✓ |
+| DEX Generic String Decryption | ✓ |
 
 ## Support & Contact
 
