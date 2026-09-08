@@ -90,6 +90,17 @@ Binary Ripper™ 是一款支持 HarmonyOS Ark 和 Android Dalvik 字节码反�
 | 反汇编与伪代码视图同步 | — |
 | 解码安卓AndroidManifest.xml和ARSC资源文件 | ✓ |
 | 通用DEX字符串解密 | ✓ |
+| Android ARM64 Native Debugger | ✓ |
+| &nbsp;&nbsp;- Ptrace Native 调试（断点、单步、线程、调用栈、寄存器、内存） | ✓ |
+| &nbsp;&nbsp;- Observe 非侵入式调试 | — |
+| &nbsp;&nbsp;- Kernel Event 硬件执行与内存访问断点 | — |
+| &nbsp;&nbsp;- Attach on Hit（命中后自动切换到 Ptrace） | — |
+| &nbsp;&nbsp;- 多 App / 多进程调试与子进程跟踪 | — |
+| &nbsp;&nbsp;- App Launch & Auto Attach | — |
+| Android 逆向工作区（设备、App、进程、APK、文件、Shell） | ✓ |
+| Native Binary Analysis | ✓ |
+| &nbsp;&nbsp;- APK / ZIP 未压缩 `.so` 直接映射与 Native Library 跟踪 | ✓ |
+| &nbsp;&nbsp;- AArch64 Native 反汇编、函数识别与 CFG | ✓ |
 
 ## 支持与联系
 

@@ -91,6 +91,17 @@ Supports folding selected **loops and regions** into a single node, reducing CFG
 | Disassembly & Pseudocode View Synchronization | — |
 | Decode AndroidManifest.xml and ARSC resource files | ✓ |
 | DEX Generic String Decryption | ✓ |
+| Android ARM64 Native Debugger | ✓ |
+| &nbsp;&nbsp;- Ptrace Native Debugging (breakpoints, stepping, threads, call stack, registers, memory) | ✓ |
+| &nbsp;&nbsp;- Observe non-invasive debugging | — |
+| &nbsp;&nbsp;- Kernel Event hardware execution and memory-access breakpoints | — |
+| &nbsp;&nbsp;- Attach on Hit (automatically switches to Ptrace on hit) | — |
+| &nbsp;&nbsp;- Multi-App / multi-process debugging and child-process tracking | — |
+| &nbsp;&nbsp;- App Launch & Auto Attach | — |
+| Android reverse-engineering workspace (device, App, process, APK, file, Shell) | ✓ |
+| Native Binary Analysis | ✓ |
+| &nbsp;&nbsp;- APK / ZIP direct mapping of uncompressed `.so` and Native Library tracking | ✓ |
+| &nbsp;&nbsp;- AArch64 native disassembly, function identification, and CFG | ✓ |
 
 ## Support & Contact
 
